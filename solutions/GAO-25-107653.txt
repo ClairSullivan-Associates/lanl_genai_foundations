@@ -1,0 +1,62 @@
+🧠 Question 1: Role-based extraction
+Prompt: “What 3 specific examples of generative AI use cases should you include, and what are they being used for?”
+
+Answer:
+
+Department of Veterans Affairs (VA) – Automating medical imaging processes to improve diagnostics and generate summary reports.
+
+Department of Homeland Security (USCIS) – Developing AI-based language translation services for documents to improve timely and accurate public communication.
+
+Department of Energy (DOE) – “AskOEDI,” a tool allowing users to query Open Energy Data Initiative datasets to get answers on equipment, methodology, and research applicability.
+
+📍Source: “Selected Agencies Anticipate Benefits from Generative AI Use Cases” section.
+
+📊 Question 2: Trend summary with numerical insight
+Prompt: “How has usage changed from 2023 to 2024, and what does that suggest?”
+
+Answer:
+Between 2023 and 2024, total AI use cases nearly doubled (from 571 to 1,110), while generative AI use cases increased nearly nine-fold (from 32 to 282), suggesting rapid adoption and growing importance of generative AI within federal agencies.
+
+📍Source: “Selected Agencies Reported Generative AI Growth, Potential Benefits, and Collaborative Efforts”
+
+⚖️ Question 3: Challenge analysis
+Prompt: “What are the most frequently cited challenges, and why do they matter?”
+
+Answer:
+
+Complying with federal policies – Agencies cited conflicting or unclear guidance, especially in data privacy and cybersecurity. This matters because compliance gaps can slow or block adoption.
+
+Lack of technical resources and budget – Many agencies reported lacking infrastructure or funding, limiting their ability to develop or scale generative AI initiatives.
+
+Workforce limitations – Agencies struggle to recruit and train staff with generative AI expertise, affecting safe and effective implementation.
+
+📍Source: “Selected Agencies Reported Several Generative AI Challenges”
+
+🛠️ Question 4: Policy synthesis
+Prompt: “What framework or guidance document would you recommend for each, and why?”
+
+Answer:
+
+Risk management → NIST AI Risk Management Framework (AI RMF)
+Why: Designed to help manage AI risks, including those specific to generative AI.
+
+Promoting responsible use → GAO AI Accountability Framework
+Why: Emphasizes governance, performance, and monitoring for responsible AI deployment.
+
+Understanding data privacy → Congressional Research Service Primer
+Why: Focuses on generative AI and privacy risks, including model training and data handling.
+
+📍Source: “Selected Agencies Use Frameworks and Guidance to Inform Generative AI Policies and Practices”
+
+🧩 Question 5: Timeline comprehension
+Prompt: “Identify 3 executive orders or OMB memoranda issued since 2023 that significantly changed federal policy. What did each do?”
+
+Answer:
+
+Executive Order 14110 (Oct 2023) – Advanced a coordinated, government-wide approach to safe and responsible AI use.
+
+OMB Memorandum M-25-21 (Apr 2025) – Required agencies to develop generative AI use policies and update AI inventories; replaced M-24-10.
+
+Executive Order 14179 (Jan 2025) – Updated U.S. AI policy and required an AI action plan by July 2025; rescinded EO 14110.
+
+📍Source: “Evolution of Executive Orders and Federal Guidance for AI and Generative AI”
