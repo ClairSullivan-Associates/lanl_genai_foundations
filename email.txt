@@ -1,0 +1,194 @@
+Subject: Re: [EXTERNAL] Re: FW: URGENT: Proposal Review Timeline and Requirements - National Lab Funding
+
+From: Jessica Lee jlee@national-lab.gov
+Date: Tue, Aug 6, 2025 at 9:14 AM
+To: Michael Santos msantos@innovatex.com
+Cc: Dr. Karen Olmstead kolmstead@national-lab.gov, Rajiv Patel rpatel@innovatex.com
+Subject: Re: [EXTERNAL] Re: FW: URGENT: Proposal Review Timeline and Requirements - National Lab Funding
+
+Michael,
+Thanks for looping me in. I agree with Rajiv that the revised budget narrative needs clarification on the subcontractor rates. The SOW still includes references to the outdated 2022 pilot, which could raise red flags with reviewers.
+
+Karen — can you confirm if we’re still targeting the 8/12 submission deadline?
+
+Best,
+Jessica
+
+From: Michael Santos msantos@innovatex.com
+Date: Tue, Aug 6, 2025 at 8:49 AM
+To: Jessica Lee jlee@national-lab.gov
+Cc: Rajiv Patel rpatel@innovatex.com
+Subject: Re: [EXTERNAL] Re: FW: URGENT: Proposal Review Timeline and Requirements - National Lab Funding
+
+Thanks Jessica —
+Looping you in for clarification. Rajiv raised a concern that I also flagged earlier: the SOW revision from Tom contradicts the previous scope approved in the May PI meeting. We need a clear decision on which version to proceed with.
+
+Rajiv — can you re-forward Tom’s most recent changes? I can’t locate them in my inbox.
+
+Best,
+Michael
+
+From: Rajiv Patel rpatel@innovatex.com
+Date: Tue, Aug 6, 2025 at 8:43 AM
+To: Michael Santos msantos@innovatex.com
+Cc: Jessica Lee jlee@national-lab.gov
+Subject: Re: [EXTERNAL] Re: FW: URGENT: Proposal Review Timeline and Requirements - National Lab Funding
+
+Michael,
+Attached again — Tom’s email from Friday evening has a revised scope (v4.1) that still refers to the deprecated sensor architecture.
+
+Jessica — do we have leeway to revert to v3.2, which was previously approved by the tech board?
+
+Regards,
+Rajiv
+
+From: Dr. Karen Olmstead kolmstead@national-lab.gov
+Date: Tue, Aug 6, 2025 at 9:28 AM
+To: Jessica Lee jlee@national-lab.gov
+Cc: Michael Santos msantos@innovatex.com, Rajiv Patel rpatel@innovatex.com
+Subject: Re: [EXTERNAL] Re: FW: URGENT: Proposal Review Timeline and Requirements - National Lab Funding
+
+We are technically still targeting 8/12 but DOE has not finalized their internal review calendar. We might get a 2-day extension. I’ll update by EOD today.
+
+Jessica — please flag any fatal inconsistencies in the current SOW before COB.
+
+K
+
+From: Tom Delgado tdelgado@innovatex.com
+Date: Tue, Aug 6, 2025 at 10:03 AM
+To: Michael Santos msantos@innovatex.com, Rajiv Patel rpatel@innovatex.com
+Subject: Re: [EXTERNAL] Re: FW: URGENT: Proposal Review Timeline and Requirements - National Lab Funding
+
+Guys,
+Not sure what happened, but the version Rajiv forwarded is outdated. Use v4.3 — I sent it Sunday morning. It includes updated tech milestones and re-baselined partner contributions.
+
+Also, the deprecated architecture language was removed in that version.
+
+-T
+
+From: Michael Santos msantos@innovatex.com
+Date: Tue, Aug 6, 2025 at 10:07 AM
+To: Tom Delgado tdelgado@innovatex.com
+Cc: Rajiv Patel rpatel@innovatex.com, Jessica Lee jlee@national-lab.gov
+Subject: Re: [EXTERNAL] Re: FW: URGENT: Proposal Review Timeline and Requirements - National Lab Funding
+
+Tom —
+Found v4.3, thanks. It looks fine except for Appendix B, which still references legacy partner ‘NanoTechSys’ instead of 'NTS Group' post-merger.
+
+Jessica — will that raise issues in the interagency review?
+
+—M
+
+From: Jessica Lee jlee@national-lab.gov
+Date: Tue, Aug 6, 2025 at 10:13 AM
+To: Michael Santos msantos@innovatex.com, Tom Delgado tdelgado@innovatex.com, Rajiv Patel rpatel@innovatex.com
+Subject: Re: [EXTERNAL] Re: FW: URGENT: Proposal Review Timeline and Requirements - National Lab Funding
+
+Yes. NTIS still has the older name in SAM.gov. Use ‘NanoTechSys (d/b/a NTS Group)’ and include a footnote in the partner orgs table.
+
+Thanks,
+Jessica
+
+From: Tom Delgado tdelgado@innovatex.com
+Date: Tue, Aug 6, 2025 at 10:22 AM
+To: Jessica Lee jlee@national-lab.gov
+Subject: Re: [EXTERNAL] Re: FW: URGENT: Proposal Review Timeline and Requirements - National Lab Funding
+
+Got it. Fixing now.
+
+-T
+
+From: Rajiv Patel rpatel@innovatex.com
+Date: Tue, Aug 6, 2025 at 10:26 AM
+To: Tom Delgado tdelgado@innovatex.com, Jessica Lee jlee@national-lab.gov
+Subject: Re: [EXTERNAL] Re: FW: URGENT: Proposal Review Timeline and Requirements - National Lab Funding
+
+Tom — you’ll also need to update the LOE matrix to reflect the Q4 shift of 160 hours from hardware integration to partner liaison activities.
+
+-R
+
+From: Tom Delgado tdelgado@innovatex.com
+Date: Tue, Aug 6, 2025 at 10:30 AM
+To: Rajiv Patel rpatel@innovatex.com
+Subject: Re: [EXTERNAL] Re: FW: URGENT: Proposal Review Timeline and Requirements - National Lab Funding
+
+Will do.
+
+From: Dr. Karen Olmstead kolmstead@national-lab.gov
+Date: Tue, Aug 6, 2025 at 11:01 AM
+To: Jessica Lee jlee@national-lab.gov
+Subject: RE: [EXTERNAL] Re: FW: URGENT: Proposal Review Timeline and Requirements - National Lab Funding
+
+DOE just confirmed the 8/12 deadline is firm. No extensions. Make sure the revised files go through internal routing by tomorrow.
+
+K
+
+From: Jessica Lee jlee@national-lab.gov
+Date: Tue, Aug 6, 2025 at 11:10 AM
+To: Dr. Karen Olmstead kolmstead@national-lab.gov
+Cc: Michael Santos msantos@innovatex.com, Tom Delgado tdelgado@innovatex.com, Rajiv Patel rpatel@innovatex.com
+Subject: Re: [EXTERNAL] Re: FW: URGENT: Proposal Review Timeline and Requirements - National Lab Funding
+
+Thanks Karen. All — please finalize by COB today. I’ll send the internal cover memo tomorrow AM.
+
+Jessica
+
+From: Tom Delgado tdelgado@innovatex.com
+Date: Tue, Aug 6, 2025 at 1:05 PM
+To: Jessica Lee jlee@national-lab.gov
+Subject: RE: Final draft submitted
+
+Sent revised PDF and Excel workbooks. Filename: InnovateX_LabProposal_v4.3_final.pdf
+
+-T
+
+From: Michael Santos msantos@innovatex.com
+Date: Tue, Aug 6, 2025 at 1:13 PM
+To: Tom Delgado tdelgado@innovatex.com, Rajiv Patel rpatel@innovatex.com, Jessica Lee jlee@national-lab.gov
+Subject: RE: Final draft submitted
+
+Tom, just saw the milestone chart still shows the June 2026 target. We moved that to Sept 2026 in the kickoff brief. Update needed?
+
+M
+
+From: Rajiv Patel rpatel@innovatex.com
+Date: Tue, Aug 6, 2025 at 1:14 PM
+To: Michael Santos msantos@innovatex.com
+Subject: RE: Final draft submitted
+
+Yes. Milestone 5 needs new Gantt and date adjustment.
+
+-R
+
+From: Tom Delgado tdelgado@innovatex.com
+Date: Tue, Aug 6, 2025 at 1:29 PM
+To: Michael Santos msantos@innovatex.com, Rajiv Patel rpatel@innovatex.com, Jessica Lee jlee@national-lab.gov
+Subject: RE: Final draft submitted
+
+Updated chart sent. File: v4.3.1
+
+-T
+
+From: Dr. Karen Olmstead kolmstead@national-lab.gov
+Date: Tue, Aug 6, 2025 at 2:00 PM
+To: Jessica Lee jlee@national-lab.gov
+Subject: RE: Routing documents
+
+Jessica — I’ll need a 1-page executive summary for the tech council packet. Due by 10 AM tomorrow.
+
+K
+
+From: Jessica Lee jlee@national-lab.gov
+Date: Tue, Aug 6, 2025 at 3:47 PM
+To: Dr. Karen Olmstead kolmstead@national-lab.gov
+Subject: RE: Routing documents
+
+Noted. Drafting now.
+
+From: Michael Santos msantos@innovatex.com
+Date: Tue, Aug 6, 2025 at 4:11 PM
+To: All
+Subject: RE: Proposal Submitted
+
+Great work, everyone. Fingers crossed.
+M
