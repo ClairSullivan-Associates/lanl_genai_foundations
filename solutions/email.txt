@@ -1,0 +1,84 @@
+🔎 Role-Based Question 1:
+Prompt:
+You are the Program Manager at the National Lab. You’ve just been forwarded this email thread.
+Question:
+
+What 3–5 key pieces of information do you need to extract quickly in order to brief your leadership?
+
+Expected responses might include:
+
+Final deadline is August 12 (non-negotiable)
+
+There was confusion over multiple versions of the SOW
+
+The partner’s name needs to be updated for compliance
+
+Milestone dates and labor allocations were revised
+
+Final documents were sent as version 4.3.1
+
+🗂️ Role-Based Question 2:
+Prompt:
+You are a new team member joining this project midstream.
+Question:
+
+Based on this thread, what decisions have already been made, and what still appears to be pending?
+
+Expected responses:
+
+Decided: Which SOW version to use (v4.3.1), partner naming fix, final milestone updates
+
+Pending: Submission of executive summary by Jessica
+
+DOE deadline confirmed as firm — no extensions
+
+📝 Role-Based Question 3:
+Prompt:
+You are Jessica. Your director just asked for a 1-page executive summary of the project status for leadership.
+Question:
+
+What 4–5 bullet points would you include?
+
+Expected response (summarized):
+
+Proposal finalized and submitted as of 8/6
+
+Updated SOW and milestone chart reflect recent scope and partner changes
+
+Subcontractor naming corrected for federal compliance
+
+Labor allocations rebalanced per revised scope
+
+Executive summary in progress, due 8/7 10am
+
+📌 Analytical Question 4:
+Prompt:
+Pretend you're using a GenAI assistant to help you summarize this thread.
+Question:
+
+What specific instruction or prompt would you give the AI to ensure it summarizes the correct version of the proposal and final status?
+
+Sample student responses might include:
+
+“Summarize this email thread with a focus on final proposal version, key deadlines, and unresolved tasks.”
+
+“Ignore outdated scope versions. Focus only on version 4.3.1 and confirmed changes.”
+
+🧭 Prioritization Question 5:
+Prompt:
+You only have 2 minutes to scan this email thread before a meeting with DOE.
+Question:
+
+What would you tell them about the status of the proposal and who to follow up with if there are questions?
+
+Expected response:
+
+Proposal has been submitted with version 4.3.1
+
+Partner naming issue corrected
+
+Deadline confirmed as August 12
+
+Final summary being written by Jessica Lee
+
+Contact Michael for content details, Jessica for process status
