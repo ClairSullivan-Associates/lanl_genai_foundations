@@ -1,0 +1,45 @@
+✅ Question 1: Acceptable Use Policy Snippet
+
+Solution:
+Generative AI may be used for drafting or summarizing public-facing documents, provided outputs are reviewed by a human and labeled appropriately. It must not be used with export-controlled, classified, or CUI data. Users must disclose when GenAI was used and cite sources when applicable.
+
+✅ Question 2: Framework Comparison – GAO vs NIST RMF
+
+Solution:
+The NIST RMF is more appropriate for managing technical and operational risks within a lab environment. It offers detailed controls and processes suited to AI deployment. The GAO framework is stronger for high-level governance but lacks implementation depth.
+
+✅ Question 3: Workflow for Implementing GenAI in Labs
+
+Solution:
+
+Define use case and success criteria
+
+Assess risks (e.g., privacy, security, fairness)
+
+Select and test GenAI tool for performance and safety
+
+Develop review and approval process with SME involvement
+
+Monitor outputs and document improvements iteratively
+
+✅ Question 4: National Security Risk – Triage of Foreign Nuclear Publications
+
+Solution:
+
+False flags or misses → Require human-in-the-loop validation
+
+Opaque model behavior → Use tools with explainability or traceable citations
+
+Poor domain fit → Ground with DOE-specific retrieval or fine-tuning
+
+✅ Question 5: Executive Briefing Agenda on M‑25‑21
+
+Solution:
+
+Current GenAI uses – “Which tools must be documented in our AI inventory?”
+
+Risk and compliance – “How are we addressing data security and export control?”
+
+Staff training and policy – “Do users know when GenAI is restricted?”
+
+Cross-lab collaboration – “What can we learn from peer DOE sites?”
